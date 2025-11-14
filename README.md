@@ -113,7 +113,7 @@ To choose menu selections and enter the needed information, enter the correspond
 ## :desktop_computer: SAMPLE OUTPUT
 *HEADER*
 
-![Alt Text]()
+![Alt Text](https://github.com/yurie0828/FIT_TRACK_PRO/blob/017fffd3fd3757191ac3bb030974de1a0897374d/Images/Header.png)
 
 *MAIN MENU*
 
