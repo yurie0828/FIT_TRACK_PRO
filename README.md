@@ -2,7 +2,7 @@
 
 ## 📌 DESCRIPTION 
 
-Fit Track Pro is a console-based tracker built in `Java` that helps users monitor and manage their fitness journey in a smart way. The program integrates a workout tracking system that allows users to `add, update, search, and view workouts` while tracking weekly progress. It has also a calorie & nutrition calculator that helps users estimate their calorie intake and basic nutritional needs. The program is designed to encourage fitness consistency and improve overall health by providing a simple, interactive tracking system.
+Fit Track Pro is a console-based tracker built in `Java` that helps users monitor and manage their fitness journey in a smart way. The program integrates a workout tracking system that allows users to `add, update, search, and view workouts` while tracking weekly progress. It has also a `calorie & nutrition calculator` that helps users estimate their calorie intake and basic nutritional needs. The program is designed to encourage fitness consistency and improve overall health by providing a simple, interactive tracking system.
 
 
 ## 🚀 OBJECT ORIENTED PROGRAMMING CONCEPTS APPLIED
@@ -16,6 +16,8 @@ Fit Track Pro is a console-based tracker built in `Java` that helps users monito
 **Polymorphism** - It is demonstrated when different workout objects (Cardio, Strength, or Flexibility) are treated as instances of the Workout class. Through method overriding, each workout type can define its own version of these methods, showcasing true polymorphic behavior.
 
 **Enum Usage** - Examples of employing enums to define a defined set of potential values, which improves code readability and lower errors, include the Sex and WorkoutStatus enums.
+
+**Exception Handling** - 
 
 ## :gear: PROGRAM STRUCTURE 
 
@@ -117,19 +119,19 @@ To choose menu selections and enter the needed information, enter the correspond
 
 *MAIN MENU*
 
-![Alt Text](/images/Main_menu.png) 
+![Alt Text](https://github.com/yurie0828/FIT_TRACK_PRO/blob/d5bbd82160321479760e49ad872a803b9b5fc511/Images/Main_menu.png)) 
 
 *CALCULATOR*
 
-![Alt Text](/images/calculator.png)
+![Alt Text](https://github.com/yurie0828/FIT_TRACK_PRO/blob/d5bbd82160321479760e49ad872a803b9b5fc511/Images/calculator.png))
 
 *ADDING WORKOUT*
 
-![Alt Text](/images/Add_workout.png)
+![Alt Text](https://github.com/yurie0828/FIT_TRACK_PRO/blob/d5bbd82160321479760e49ad872a803b9b5fc511/Images/Add_workout.png)
 
 *VIEW WORKOUT HISTORY*
 
-![Alt Text](/images/view.png)
+![Alt Text](https://github.com/yurie0828/FIT_TRACK_PRO/blob/d5bbd82160321479760e49ad872a803b9b5fc511/Images/view.png)
 
 ## :memo: AUTHOR AND ACKNOLEDGEMENT
 
