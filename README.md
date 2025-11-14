@@ -113,7 +113,7 @@ To choose menu selections and enter the needed information, enter the correspond
 ## :desktop_computer: SAMPLE OUTPUT
 *HEADER*
 
-![Alt Text](/images/Header.png)
+![Alt Text]()
 
 *MAIN MENU*
 
