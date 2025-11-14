@@ -19,6 +19,7 @@ Fit Track Pro is a console-based tracker built in `Java` that helps users monito
 
 **Exception Handling** - 
 
+
 ## :gear: PROGRAM STRUCTURE 
 
 **1. FitTrackPro (Main Class)**
