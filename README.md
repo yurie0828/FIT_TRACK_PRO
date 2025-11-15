@@ -7,17 +7,17 @@ Fit Track Pro is a console-based tracker built in `Java` that helps users monito
 
 ## 🚀 OBJECT ORIENTED PROGRAMMING CONCEPTS APPLIED
 
-**Encapsulation** - The Workout class and its subclasses (Cardio, Strength, Flexibility) incorporate workout data (ID, week, day, date, intensity, goal, status) and associated behavior. OOP Concepts Applied Fit Track Pro exemplifies a  number of important OOP concepts. This guarantees consistency and safeguards the data.
+- **Encapsulation** - The Workout class and its subclasses (Cardio, Strength, Flexibility) incorporate workout data (ID, week, day, date, intensity, goal, status) and associated behavior. OOP Concepts Applied Fit Track Pro exemplifies a  number of important OOP concepts. This guarantees consistency and safeguards the data.
 
-**Abstraction** - The Workout class is an abstract class, providing a general structure for different types of workouts. This enables the program to manage exercises in a general manner while still permitting particular implementations.
+- **Abstraction** - The Workout class is an abstract class, providing a general structure for different types of workouts. This enables the program to manage exercises in a general manner while still permitting particular implementations.
 
-**Inheritance** - Common properties and methods are inherited by the Cardio, Strength and Flexibility classes from the Workout class.
+- **Inheritance** - Common properties and methods are inherited by the Cardio, Strength and Flexibility classes from the Workout class.
 
-**Polymorphism** - It is demonstrated when different workout objects (Cardio, Strength, or Flexibility) are treated as instances of the Workout class. Through method overriding, each workout type can define its own version of these methods, showcasing true polymorphic behavior.
+- **Polymorphism** - It is demonstrated when different workout objects (Cardio, Strength, or Flexibility) are treated as instances of the Workout class. Through method overriding, each workout type can define its own version of these methods, showcasing true polymorphic behavior.
 
-**Enum Usage** - Examples of employing enums to define a defined set of potential values, which improves code readability and lower errors, include the Sex and WorkoutStatus enums.
+- **Enum Usage** - Examples of employing enums to define a defined set of potential values, which improves code readability and lower errors, include the Sex and WorkoutStatus enums.
 
-**Exception Handling** - 
+- **Exception Handling** - 
 
 
 ## :gear: PROGRAM STRUCTURE 
