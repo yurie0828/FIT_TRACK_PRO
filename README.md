@@ -122,7 +122,7 @@ To choose menu selections and enter the needed information, enter the correspond
 
 ![Alt Text](https://github.com/yurie0828/FIT_TRACK_PRO/blob/d5bbd82160321479760e49ad872a803b9b5fc511/Images/Main_menu.png)) 
 
-*CALCULATOR*
+*NUTRITION CALCULATOR*
 
 ![Alt Text](https://github.com/yurie0828/FIT_TRACK_PRO/blob/d5bbd82160321479760e49ad872a803b9b5fc511/Images/calculator.png))
 
