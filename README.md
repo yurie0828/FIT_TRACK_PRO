@@ -19,43 +19,43 @@
 
 - **Exception Handling** - The code uses try-catch blocks to handle potential errors, such as:
 
-`NumberFormatException:`
+  *NumberFormatException:*
 
-When interpreting numerical input   from the user (e.g., weight, height, age).
+   - When interpreting numerical input   from the user (e.g., weight, height, age).
 
-`DateTimeParseException:`
+   *DateTimeParseException:*
 
-When extracting dates from the user input.  
+   - When extracting dates from the user input.  
 
-`IllegalArgumentException:`
+   *IllegalArgumentException:*
+  
+    - When an invlid value is entered by the user for an enum (such as Sex).
 
-When an invalid value is entered by the user for an enum (such as Sex).
+   *IOException:*
 
-`IOException:`
+   - When clearing the screen using ProcessBuilder.
 
-When clearing the screen using ProcessBuilder.
+   *InterruptedException:*
 
-`InterruptedException:`
-
-When an interruption occurs in the process.
+   - When an interruption occurs in the process.
 
 - **Arrays, Collections, and Methods:**
 
-`Collections:`
+   *Collections:*
 
-Collections An ArrayList, a kind of collection used to hold a dynamic list of Workout objects, is what the workout variable is.
+  - Collections An ArrayList, a kind of collection used to hold a dynamic list of Workout objects, is what the workout variable is.
 
-`Methods:`
+   *Methods:*
 
-The code is arranged into methods (such as Workout, calculateMacronutrients and printWorkoutsTable) that carry out particular duties. This encourages code reuse and facilities comprehension.
+   - The code is arranged into methods (such as Workout, calculateMacronutrients and printWorkoutsTable) that carry out particular duties. This encourages code reuse and facilities comprehension.
 
-`Control Structures:`
+   *Control Structures:*
 
-To regulate the execution flow, the code makes use of a number of control structures including: 
-  - For the main loop, use the while loop.
-To handle menu options, use a switch statement.
-  - If-else statements, for method-based decision-making (e.g., calculating BMR based on sex).
-  - Iterating through the list of exercises is an improved for loop.
+   - To regulate the execution flow, the code makes use of a number of control structures including: 
+     - For the main loop, use the while loop.
+     - To handle menu options, use a switch statement.
+     - If-else statements, for method-based decision-making (e.g., calculating BMR based on sex).
+     - Iterating through the list of exercises is an improved for loop.
 
 
 ## :gear: PROGRAM STRUCTURE 
@@ -66,13 +66,13 @@ To handle menu options, use a switch statement.
 
 `Variables or Attributes `
 
-- scanner – Input is taken from the console user via this.
+- *scanner* – Input is taken from the console user via this.
 
-- workouts – This is the list comprising all workouts that have been added.
+- *workouts* – This is the list comprising all workouts that have been added.
 
-- nextWorkoutId – New workouts are allocated IDs automatically in ascending order.
+- *nextWorkoutId* – New workouts are allocated IDs automatically in ascending order.
 
-- DATE_FORMAT – One and the same format is used for inputting and displaying date.
+- *DATE_FORMAT* – One and the same format is used for inputting and displaying date.
 
 `Methods (or Functions)`
 
