@@ -2,7 +2,7 @@
 
 ## 📌 DESCRIPTION 
 
-Fit Track Pro is a console-based tracker built in `Java` that helps users monitor and manage their fitness journey in a smart way. The program integrates a workout tracking system that allows users to `add, update, search, and view workouts` while tracking weekly progress. It has also a `calorie & nutrition calculator` that helps users estimate their calorie intake and basic nutritional needs. The program is designed to encourage fitness consistency and improve overall health by providing a simple, interactive tracking system.
+**Fit Track Pro** is a console-based tracker built in `Java` that helps users monitor and manage their fitness journey in a smart way. The program integrates a workout tracking system that allows users to `add, update, search, and view workouts` while tracking weekly progress. It has also a `calorie & nutrition calculator` that helps users estimate their calorie intake and basic nutritional needs. The program is designed to encourage fitness consistency and improve overall health by providing a simple, interactive tracking system.
 
 
 ## 🚀 OBJECT ORIENTED PROGRAMMING CONCEPTS APPLIED
