@@ -17,7 +17,45 @@ Fit Track Pro is a console-based tracker built in `Java` that helps users monito
 
 - **Enum Usage** - Examples of employing enums to define a defined set of potential values, which improves code readability and lower errors, include the Sex and WorkoutStatus enums.
 
-- **Exception Handling** - 
+- **Exception Handling** - The code uses try-catch blocks to handle potential errors, such as:
+
+   `NumberFormatException:`
+
+    When interpreting numerical input   from the user (e.g., weight, height, age).
+
+   `DateTimeParseException:`
+
+    When extracting dates from the user input.  
+
+   `IllegalArgumentException:`
+
+    When an invalid value is entered by the user for an enum (such as Sex).
+
+   `IOException:`
+
+    When clearing the screen using ProcessBuilder.
+
+   `InterruptedException:`
+
+    When an interruption occurs in the process.
+
+- **Arrays, Collections, and Methods:**
+
+`Collections:`
+
+Collections An ArrayList, a kind of collection used to hold a dynamic list of Workout objects, is what the workout variable is.
+
+`Methods:`
+
+The code is arranged into methods (such as Workout, calculateMacronutrients and printWorkoutsTable) that carry out particular duties. This encourages code reuse and facilities comprehension.
+
+`Control Structures:`
+
+To regulate the execution flow, the code makes use of a number of control structures including: 
+  - For the main loop, use the while loop.
+To handle menu options, use a switch statement.
+  - If-else statements, for method-based decision-making (e.g., calculating BMR based on sex).
+  - Iterating through the list of exercises is an improved for loop.
 
 
 ## :gear: PROGRAM STRUCTURE 
@@ -147,4 +185,10 @@ To choose menu selections and enter the needed information, enter the correspond
     
 
 ## :paperclips: REFERENCES
+
+<https://blog.myfitnesspal.com/ask-the-dietitian-whats-the-best-carb-protein-and-fat-breakdown-for-weight-loss/?fbclid=IwY2xjawOJJmRleHRuA2FlbQIxMQBzcnRjBmFwcF9pZAwzNTA2ODU1MzE3MjgAAR7qGr18ukpKawLirpyBm3gftoz4aTzA9PwBVtdJppLj-RzMcoZViJPDxxXwuQ_aem_UZp_n8MTQCekL21umht0Bg>
+
+
+<https://www.fitnessmentors.com/tdee-calculator-total-daily-energy-expenditure/?fbclid=IwY2xjawOJJohleHRuA2FlbQIxMQBzcnRjBmFwcF9pZAwzNTA2ODU1MzE3MjgAAR5qnGgQrurYvqGs0MSyB-3NoJ9YXnkfDlza6wu69nwiX0i1PeDg6wzQuyTTrw_aem_bnpmIfT5og_LPVu564Jflg>
+
 
