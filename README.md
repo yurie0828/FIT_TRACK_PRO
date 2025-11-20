@@ -176,13 +176,13 @@ To choose menu selections and enter the needed information, enter the correspond
 
 **Collaborators**
 
-Layag, Pauline Mae A.
+- Layag, Pauline Mae A.
 
-Lira, Lieca Gen C.
+- Lira, Lieca Gen C.
 
-Macatangay, Yurie
+- Macatangay, Yurie M.
 
-Magadia, Bernadette M.
+- Magadia, Bernadette M.
 
 **Acknowledgement**
 
