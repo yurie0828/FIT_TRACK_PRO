@@ -188,9 +188,9 @@ Magadia, Bernadette M.
 
 First of all, we would like to thank the Almighty God for his enduring grace, guidance  and protection that he has bestowed upon us during this final project.
 
-We would also like to express our sincerest gratitude to our Professor Sir Jayson Abratique for his continuous support in our project, for his patience, motivation, and immense knowledge. His guidance helped us throughout our final project.
+We would also like to express our sincerest gratitude to our Professor Sir Jayson Abratiqu for his continuous support in our project, for his patience, motivation, and immense knowledge. His guidance helped us throughout our final project.
 
-To our parents, who have continuously supported us financially to accomplish this study and for their guidance, encouragement and inspiration to us throughout our lives, a very special thank you for your parental presence and constant guidance to us. 
+To our parents, who have continuously supported us financially to accomplish this project and for their guidance, encouragement and inspiration to us throughout our lives, a very special thank you for your parental presence and constant guidance to us. 
 
 We would also like to thank our fellow classmates and friends for the stimulating discussions, for the sleepless nights they were working together for deadlines, for fostering a positive and collaborative team environment throughout the development of this Java project. Their willingness to share ideas, provide constructive feedback, and support one another was instrumental in creating a successful and enjoyable learning experience.
 
