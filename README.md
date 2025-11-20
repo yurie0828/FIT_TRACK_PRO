@@ -19,25 +19,25 @@ Fit Track Pro is a console-based tracker built in `Java` that helps users monito
 
 - **Exception Handling** - The code uses try-catch blocks to handle potential errors, such as:
 
-   `NumberFormatException:`
+`NumberFormatException:`
 
-    When interpreting numerical input   from the user (e.g., weight, height, age).
+When interpreting numerical input   from the user (e.g., weight, height, age).
 
-   `DateTimeParseException:`
+`DateTimeParseException:`
 
-    When extracting dates from the user input.  
+When extracting dates from the user input.  
 
-   `IllegalArgumentException:`
+`IllegalArgumentException:`
 
-    When an invalid value is entered by the user for an enum (such as Sex).
+When an invalid value is entered by the user for an enum (such as Sex).
 
-   `IOException:`
+`IOException:`
 
-    When clearing the screen using ProcessBuilder.
+When clearing the screen using ProcessBuilder.
 
-   `InterruptedException:`
+`InterruptedException:`
 
-    When an interruption occurs in the process.
+When an interruption occurs in the process.
 
 - **Arrays, Collections, and Methods:**
 
@@ -158,11 +158,11 @@ To choose menu selections and enter the needed information, enter the correspond
 
 *MAIN MENU*
 
-![Alt Text](https://github.com/yurie0828/FIT_TRACK_PRO/blob/d5bbd82160321479760e49ad872a803b9b5fc511/Images/Main_menu.png)) 
+![Alt Text](https://github.com/yurie0828/FIT_TRACK_PRO/blob/d5bbd82160321479760e49ad872a803b9b5fc511/Images/Main_menu.png)
 
 *NUTRITION CALCULATOR*
 
-![Alt Text](https://github.com/yurie0828/FIT_TRACK_PRO/blob/d5bbd82160321479760e49ad872a803b9b5fc511/Images/calculator.png))
+![Alt Text](https://github.com/yurie0828/FIT_TRACK_PRO/blob/d5bbd82160321479760e49ad872a803b9b5fc511/Images/calculator.png)
 
 *ADDING WORKOUT*
 
