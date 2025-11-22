@@ -166,30 +166,32 @@ To choose menu selections and enter the needed information, enter the correspond
 
 *ADDING WORKOUT*
 
-![Alt Text](
+![Alt Text](https://github.com/yurie0828/FIT_TRACK_PRO/blob/7b313401aee565129c5babaa875c2f5d6358fdc7/Images/addWorkout.jpg)
 
 *UPDATING WORKOUT*
-![Alt Text](
+
+![Alt Text](https://github.com/yurie0828/FIT_TRACK_PRO/blob/7b313401aee565129c5babaa875c2f5d6358fdc7/Images/updateWorkout.jpg)
 
 *SEARCH WORKOUT*
 
-![Alt Text](
+![Alt Text](https://github.com/yurie0828/FIT_TRACK_PRO/blob/7b313401aee565129c5babaa875c2f5d6358fdc7/Images/searchWorkout.jpg)
 
 *MONITOR WEEKLY STATUS*
 
-![Alt Text](
+![Alt Text](https://github.com/yurie0828/FIT_TRACK_PRO/blob/7b313401aee565129c5babaa875c2f5d6358fdc7/Images/monitor.jpg)
 
 *DELETE WORKOUT*
 
-![Alt Text](
+![Alt Text](https://github.com/yurie0828/FIT_TRACK_PRO/blob/7b313401aee565129c5babaa875c2f5d6358fdc7/Images/deleteWorkout.jpg)
 
 *VIEW WORKOUT HISTORY*
 
-![Alt Text](
+![Alt Text](https://github.com/yurie0828/FIT_TRACK_PRO/blob/7b313401aee565129c5babaa875c2f5d6358fdc7/Images/viewWorkout.jpg)
+
 
 *PROGRAM END*
 
-![Alt Text](
+![Alt Text](https://github.com/yurie0828/FIT_TRACK_PRO/blob/7b313401aee565129c5babaa875c2f5d6358fdc7/Images/exitProgram.jpg)
 
 ## :memo: AUTHOR AND ACKNOLEDGEMENT
 
