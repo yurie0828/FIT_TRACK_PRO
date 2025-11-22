@@ -206,9 +206,8 @@ We would also like to thank our fellow classmates and friends for the stimulatin
 
 ## :paperclips: REFERENCES
 
-<https://blog.myfitnesspal.com/ask-the-dietitian-whats-the-best-carb-protein-and-fat-breakdown-for-weight-loss/?fbclid=IwY2xjawOJJmRleHRuA2FlbQIxMQBzcnRjBmFwcF9pZAwzNTA2ODU1MzE3MjgAAR7qGr18ukpKawLirpyBm3gftoz4aTzA9PwBVtdJppLj-RzMcoZViJPDxxXwuQ_aem_UZp_n8MTQCekL21umht0Bg>
+Carb, Protein, and Fat Ratio: The Role of Macronutrients for Weight Loss. (2024). Donna Pudelwitts. <https://blog.myfitnesspal.com/ask-the-dietitian-whats-the-best-carb-protein-and-fat-breakdown-for-weight-loss/?fbclid=IwY2xjawOJJmRleHRuA2FlbQIxMQBzcnRjBmFwcF9pZAwzNTA2ODU1MzE3MjgAAR7qGr18ukpKawLirpyBm3gftoz4aTzA9PwBVtdJppLj-RzMcoZViJPDxxXwuQ_aem_UZp_n8MTQCekL21umht0Bg>
 
-
-<https://www.fitnessmentors.com/tdee-calculator-total-daily-energy-expenditure/?fbclid=IwY2xjawOJJohleHRuA2FlbQIxMQBzcnRjBmFwcF9pZAwzNTA2ODU1MzE3MjgAAR5qnGgQrurYvqGs0MSyB-3NoJ9YXnkfDlza6wu69nwiX0i1PeDg6wzQuyTTrw_aem_bnpmIfT5og_LPVu564Jflg>
+Anwar, A. (2025, October 20). TDEE Calculator: Why most calorie calculations are wrong. Fitness Mentors. <https://www.fitnessmentors.com/tdee-calculator-total-daily-energy-expenditure/?fbclid=IwY2xjawOJJohleHRuA2FlbQIxMQBzcnRjBmFwcF9pZAwzNTA2ODU1MzE3MjgAAR5qnGgQrurYvqGs0MSyB-3NoJ9YXnkfDlza6wu69nwiX0i1PeDg6wzQuyTTrw_aem_bnpmIfT5og_LPVu564Jflg>
 
 
