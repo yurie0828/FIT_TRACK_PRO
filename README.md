@@ -166,17 +166,30 @@ To choose menu selections and enter the needed information, enter the correspond
 
 *ADDING WORKOUT*
 
-![Alt Text](https://github.com/yurie0828/FIT_TRACK_PRO/blob/d5bbd82160321479760e49ad872a803b9b5fc511/Images/Add_workout.png)
+![Alt Text](
 
 *UPDATING WORKOUT*
+![Alt Text](
 
 *SEARCH WORKOUT*
 
-*MONITOR 
+![Alt Text](
+
+*MONITOR WEEKLY STATUS*
+
+![Alt Text](
+
+*DELETE WORKOUT*
+
+![Alt Text](
 
 *VIEW WORKOUT HISTORY*
 
-![Alt Text](https://github.com/yurie0828/FIT_TRACK_PRO/blob/d5bbd82160321479760e49ad872a803b9b5fc511/Images/view.png)
+![Alt Text](
+
+*PROGRAM END*
+
+![Alt Text](
 
 ## :memo: AUTHOR AND ACKNOLEDGEMENT
 
