@@ -231,4 +231,7 @@ Carb, Protein, and Fat Ratio: The Role of Macronutrients for Weight Loss. (2024)
 
 Anwar, A. (2025, October 20). TDEE Calculator: Why most calorie calculations are wrong. Fitness Mentors. <https://www.fitnessmentors.com/tdee-calculator-total-daily-energy-expenditure/?fbclid=IwY2xjawOJJohleHRuA2FlbQIxMQBzcnRjBmFwcF9pZAwzNTA2ODU1MzE3MjgAAR5qnGgQrurYvqGs0MSyB-3NoJ9YXnkfDlza6wu69nwiX0i1PeDg6wzQuyTTrw_aem_bnpmIfT5og_LPVu564Jflg>
 
+Cscs, J. R. (2025, July 14). 15 quick and effective bodyweight exercises to help you burn calories and lose weight. Health. <https://www.health.com/bodyweight-exercises-to-lose-weight-11769145>
+
+BetterMe. (2025, October 8). Workout plan to lose weight and gain muscle at the gym. BetterMe Blog. <https://betterme.world/articles/workout-plan-to-lose-weight-and-gain-muscle/>
 
